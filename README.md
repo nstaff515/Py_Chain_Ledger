@@ -9,8 +9,8 @@
 
 ## Screenshot of Sample Transactions
 
-![ScreenShot](https://C:\Users\nstaf\OneDrive\Desktop\transaction_screenshot.png)
+![ScreenShot](C:\Users\nstaf\OneDrive\Desktop\transaction_screenshot.png)
 
 ## Screenshot of Chain Validation Feature
 
-![Screenshot](https://C:\Users\nstaf\OneDrive\Desktop\chain_validation_screenshot.png)
+![Screenshot](C:\Users\nstaf\OneDrive\Desktop\chain_validation_screenshot.png)
